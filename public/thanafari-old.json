@@ -1,0 +1,1017 @@
+{
+      thanafari: [
+        {
+            id : "i52",
+            oc :"জনাব, শেখ মোঃ আব্দুর রাজ্জাক",
+            name: "সদরঘাট নৌ থানা ",
+            phone: "01769695222",
+            address : null,
+           lat :"23.7047",
+           long: "90.4161"
+
+
+        },
+
+        {
+            id : 53,
+            oc :"মোঃ লুৎফর রহমান",
+            name: "হাসনাবাদ নৌ ফাঁড়ি",
+            phone: "01769695223",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+
+        },
+        {
+            id : 54,
+            oc :"মোঃ মিজানুর রহমান",
+            name: "কুতুবপুর নৌ ফাঁড়ি",
+            phone: "017696952526",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+            
+        },
+        {
+            id : 55,
+            oc :"মোঃ আমিরুল ইসলাম",
+            name: "বরিসুর নৌ ফাঁড়ি",
+            phone: "017696952521",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+           
+        },
+        {
+            id : 56,
+            oc :"জনাব আনোয়ারুল আজম",
+            name: "ডেমরা নৌ ফাঁড়ি",
+            phone: "017696952524",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+           
+
+        },
+        {
+            id : 57,
+            oc :"জনাব, আসদুজ্জামান",
+            name: "বসিলা নৌ ফাঁড়ি",
+            phone: "017696952520",
+            address : null,
+           lat :"23.7490457",
+           long: "90.341252"
+
+        },
+        {
+            id : 58,
+            oc :"জনাব, ফেরদৌস আলম",
+            name: "টঙ্গি নৌ ফাঁড়ি",
+            phone: "017696952527",
+            address : null,
+           lat :"23.8878084",
+           long: "90.3951616"
+           
+        },
+        {
+            id : 59,
+            oc :"জনাব, নেওয়াজ উদ্দিন",
+            name: "নারায়ণগঞ্জ সদর নৌ থানা",
+            phone: "01769690772",
+            address : null,
+           lat :"23.6313328",
+           long: "90.4119678"
+          
+
+        },
+        {
+            id : 60,
+            oc :"জনাব, নাছির উদ্দিন",
+            name: "কলাগছিয়া নৌ থানা",
+            phone: "01769690771",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+            
+        },
+        {
+            id : 61,
+            oc :"জনাব রেজাউল ইসলাম",
+            name: "বক্তাবলী নৌ ফাঁড়ি",
+            phone: "01769690773",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+           
+           
+        },
+        {
+            id : 62,
+            oc :"জনাব, আব্দুল জলিল খোশনোবিশ",
+            name: "খাঁককান্দা নৌ ফাঁড়ি",
+            phone: "01769690774",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+            
+        },
+        {
+            id : 63,
+            oc :"জনাব, মোঃ মোস্তাফিজুর",
+            name: "বৈদ্ধের বাজার নৌ ফাঁড়ি",
+            phone: "017696952530",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+           
+        },
+        {
+            id : 64,
+            oc :"মোঃ মনিরুজ্জামান",
+            name: "কাঁচপুর নৌ ফাঁড়ি",
+            phone: "017696952529",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+            
+        },
+        {
+            id : 65,
+            oc :"মোঃ তৌহিদুর রহমান",
+            name: "ইছাপুর নৌ ফাঁড়ি",
+            phone: "017696952531",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+            
+        },
+        {
+            id : 66,
+            oc :"জনাব, মোঃ শাম সুর রহমান",
+            name: "পাগলা নৌ ফাঁড়ি",
+            phone: "017696952528",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+           
+        },
+        {
+            id : 67,
+            oc :"মোঃ মেহেদুল",
+            name: "বংগারচর নৌ ফাঁড়ি",
+            phone: "01769690776",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+            
+        },
+        {
+            id : 68,
+            oc :"আলমগীর হোসেন",
+            name: "করিমপুর নৌ ফাঁড়ি",
+            phone: "017696952532",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+           
+        },
+        {
+            id : 69,
+            oc :"মোঃ সাদিকুল ইসলাম",
+            name: "মির্জাচর নৌ ফাঁড়ি",
+            phone: "017696952533",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+          
+        },
+        {
+            id : 70,
+            oc :"মোঃ আঃ হাসিম সরকারি",
+            name: "মুক্তারপুর নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৭৭৫",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+    
+        },
+        {
+            id : 71,
+            oc :"মোঃ আরমান হোসেন",
+            name: "মাওয়া নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৭৯৯",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+  
+        },
+        {
+            id : 72,
+            oc :"মোঃ জহিরুল ইসলাম",
+            name: "গজারিয়া নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৩৪",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+ 
+        },
+        {
+            id : 73,
+            oc :"জনাব মোঃ বাচ্চু মিয়া",
+            name: "চরআব্দুল্লাহপুর নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৩৫",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+  
+
+        },
+        {
+            id : 74,
+            oc :"মোঃ জমশেদ",
+            name: "ভৈরব নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৭৭৮",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+    
+        },
+        {
+            id : 75,
+            oc :"মোখলেছার রহমান",
+            name: "মিঠামইন নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৭৭৯",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+    
+        },
+        {
+            id : 76,
+            oc :"মোঃ আব্দুল হাই",
+            name: "চামড়া - বন্দর নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৭২",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+  
+        },
+        {
+            id : 77,
+            oc :"মোঃ শামছুল আলম",
+            name: "ছলিমগঞ্জ নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৭৭৭",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+
+        },
+        {
+            id : 78,
+            oc :"মোঃ- রাজু আহম্মদ",
+            name: "দুবাজাইল নৌ ফাঁড়ি (পানিশ্বর)",
+            phone: "০১৭৬৯৬৯২৫৮২",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+
+        },
+        {
+            id : 79,
+            oc :"মণি সাধ্য",
+            name: "মার্কুলী নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৭৮০",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+
+
+        },
+
+        {
+            id : 80,
+            oc :"মোঃ হাস নাত",
+            name: "মাদনা নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৭৮১",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+         
+        },
+        {
+            id : 81,
+            oc :"মোঃ আবু কাউছার",
+            name: "কাকাইলছেও নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৭৮২",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+      
+        },
+        {
+            id : 82,
+            oc :"মোঃ আব্দুল্লাহ আল মামুন",
+            name: "শ্যামারচর নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৭৩",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+       
+        },
+        {
+            id : 83,
+            oc :"মিজানুর রহমান",
+            name: "শানবাড়ী নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৭৪",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+     
+        },
+        {
+            id : 84,
+            oc :"মোঃ আনিসুর রহমান",
+            name: "লালপুর নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৭৫",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+  
+        },
+        {
+            id : 85,
+            oc :"মোঃ আব্দুর হান্নান",
+            name: "টুকের বাজার নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৭৭",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+
+        },
+        {
+            id : 86,
+            oc :"মোঃ ইউনুছ আলী খাঁন",
+            name: "ছাতক নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৭৬",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+     
+        },
+        {
+            id : 87,
+            oc :"জনাব, মোঃ আমিনুল ইসলাম",
+            name: "পাটুরিয়া নৌ থানা",
+            phone: "০১৭৬৯৬৯০৮০৩",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+    
+        },
+        {
+            id : 88,
+            oc :"আসাদুজ্জামান",
+            name: "দৌলতদিয়া নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৮০৪",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+ 
+        },
+        {
+            id : 89,
+            oc :"মোঃ নাজমুল",
+            name: "কোতয়ালী নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৩৬",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+        
+        
+        },
+        {
+            id : 90,
+            oc :"মোঃ মালেক",
+            name: "কবিরাজপুর নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৮০১",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+      
+        },
+        {
+            id : 91,
+            oc :"শাহী নাজমুজ্জামান",
+            name: "কলাতলা নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৩৭",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+        },
+        {
+            id : 92,
+            oc :"মোঃ শফিকুল",
+            name: "বড়দিয়া নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৪১",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+        },
+        {
+            id : 93,
+            oc :"মোঃ আব্দুল হান্নান",
+            name: "বাহাদুরবাদ নৌ থানা",
+            phone: "০১৭৬৯৬৯২৫৫৬",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+        },
+        {
+            id : 94,
+            oc :"মোঃ শরিফুল",
+            name: "ভূঞাপুর নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৫৫",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+        },
+        {
+            id : 95,
+            oc :"মোঃ শহিদুল",
+            name: "নগরবাড়ী নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৮০৫",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+        },
+        {
+            id : 96,
+            oc :"আশরাফুল ইসলাম",
+            name: "বালশিঘাট নৌ ফাঁড়ি",
+            phone: " ০১৭৬৯৬৯২৫৫৮",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+           
+        },
+        {
+            id : 97,
+            oc :"জনাব, মোঃ- আতাউর রহমান",
+            name: "ফুলছড়ি নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৫৯",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+           
+        },
+        {
+            id : 98,
+            oc :"জনাব, বাবর আলী খান",
+            name: "বঙ্গবন্ধু সেতু পূর্ব নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৫৪",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+            
+        },
+        {
+            id : 99,
+            oc :"মোঃ আবুল কালাম আজাদ",
+            name: "বঙ্গবন্ধু সেতু পশ্চিম নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৫০",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+          
+        },
+        {
+            id : 100,
+            oc :"মোঃ তাজিমুল",
+            name: "চৌহালি নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৫৩",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+           
+
+        },
+        {
+            id : 101,
+            oc :"জনাব, মোঃ গোলাম মস্থফা",
+            name: "চিলমারী নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৬১",
+            address : null,
+           lat :"3.4",
+           long: "2.3"
+  
+        },
+        {
+            id : 103,
+            oc :"জনাব, বেলাল হোসেন",
+            name: "বরিশাল সদর নৌ থানা",
+            phone: "০১৭৬৯৬৯০৮১৫",
+            address : null,
+           lat :null,
+           long: null
+    
+        },
+        {
+            id : 104,
+            oc :"জনাব, পায়েল হোসেন",
+            name: "পূর্ব ইলিশা নৌ থানা",
+            phone: "০১৭৬৯৬৯২৬১৩",
+            address : null,
+           lat :null,
+           long: null
+     
+        },
+        {
+            id : 105,
+            oc :"মোঃ বাদল ফকির",
+            name: "নাজিরপুর নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৮১৩",
+            address : null,
+           lat :null,
+           long: null
+    
+
+        },
+        {
+            id : 106,
+            oc :"মোঃ রেহাউল",
+            name: "চামটা নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৮১৪",
+            address : null,
+           lat :null,
+           long: null
+        },
+        {
+            id : 107,
+            oc :"উত্তম",
+            name: "হিজলা নৌ ফাঁড়ি, বরিশাল",
+            phone: "০১৭৬৯৬৯২৬০৮",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 108,
+            oc :"মোঃ শাখা ও য়াত",
+            name: "কুয়াকাটা নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৮১৭",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 109,
+            oc :"মোঃ আল-মামুন",
+            name: "কালাইয়া নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৮১৮",
+            address : null,
+           lat :null,
+           long: null
+      
+
+        },
+        {
+            id : 110,
+            oc :"সারোয়ার,",
+            name: "পায়রাবন্দর নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৬২২",
+            address : null,
+           lat :null,
+           long: null
+        },
+        {
+            id : 111,
+            oc :"মোঃ- আতিকুর রহমান",
+            name: "পায়রাকুঞ্জ নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৬২১",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 112,
+            oc :"মোঃ সোহাগ ফকির",
+            name: "দশমিনা নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৬২৫",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 113,
+            oc :"মোঃ রাজ্জাক",
+            name: "চরদুয়ানী নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৮২০",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 114,
+            oc :"সঞ্জয় মণ্ডল",
+            name: "কাকচিড়া নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৮১৯",
+            address : null,
+           lat :null,
+           long: null
+        },
+        {
+            id : 115,
+            oc :"আবু আব্দুল্লাহ",
+            name: "নিদ্রা সকিনা নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৬১৯",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 116,
+            oc :"জনাব, মোঃ রাসেল মিয়া",
+            name: "কেএমপি নৌ থানা খুলনা",
+            phone: "০১৭৬৯৬৯০৭৯৬",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 117,
+            oc :"মোঃ মনিরুল ইসলাম",
+            name: "নলিয়ান নৌ থানা",
+            phone: "০১৭৬৯৬৯০৭৯৫",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 118,
+            oc :"মোঃ আবুল হোসেন শরিফ",
+            name: "চাঁদপাই নৌ থানা",
+            phone: "০১৭৬৯৬৯০৭৯২",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 119,
+            oc :"জনাব, অনিমেষ হালদার",
+            name: "বুড়ি গোয়ালিনী নৌ থানা",
+            phone: "০১৭৬৯৬৯০৭৯৭",
+            address : null,
+           lat :null,
+           long: null
+        },
+        {
+            id : 120,
+            oc :"মোঃ কামাল হোসেন",
+            name: "ভিলাডাঙ্গা নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৭৯৩",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 121,
+            oc :"আসাদুজ্জামান,",
+            name: "আংটি হারা নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৭৯৪",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 122,
+            oc :"মোঃ নজরুল ইসলাম",
+            name: "রূপসা নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৯৬",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 123,
+            oc :"মোঃ কামাল হোসেন",
+            name: "দাকোপ নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৯৪",
+            address : null,
+           lat :null,
+           long: null
+      
+
+        },
+        {
+            id : 124,
+            oc :"মোঃ রেজাউল করিম",
+            name: "পাইকগাছা নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৯৩",
+            address : null,
+           lat :null,
+           long: null
+    
+
+        },
+        {
+            id : 125,
+            oc :"মন্টু কুমার দাশ",
+            name: "রায়নগর নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৯৭",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 126,
+            oc :"অতিরিক্ত দায়িত্বে আইসি রায়নগর",
+            name: "মুন্সিগঞ্জ নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৯৯",
+            address : null,
+           lat :null,
+           long: null
+            
+        },
+        {
+            id : 127,
+            oc :"মোঃ আস দুজ্জামান হারুন",
+            name: "বাগেরহাট সদর ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৭৯০",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 128,
+            oc :"মোঃ বদিউজ্জামান",
+            name: "খাঁন সদর নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৭৯১",
+            address : null,
+           lat :null,
+           long: null
+
+
+        },
+        {
+            id : 129,
+            oc :"মোঃ শাহ্\u200c আলম",
+            name: "মংলা নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৬০২",
+            address : null,
+           lat :null,
+           long: null
+           
+ 
+        },
+        {
+            id : 130,
+            oc :"মোঃ শহিদুল",
+            name: "সন্যাসী নৌ ফাঁড়ী",
+            phone: "০১৭৬৯৬৯২৬০৩",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 131,
+            oc :"মোঃ তৌহিদ হাসান",
+            name: "পারেরহাট নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৮১৬",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 132,
+            oc :"মোঃ আকবর হোসেন",
+            name: "নেছারাবাদ নৌ ফাঁড়ী",
+            phone: "০১৭৬৯৬৯২৫৮৯",
+            address : null,
+           lat :null,
+           long: null
+        },
+        {
+            id : 133,
+            oc :"রাজিব কুমার",
+            name: "দৈহাড়ী বাজার নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৯২",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 134,
+            oc :"মোঃ মোস্তফা",
+            name: "ঝাউখালী নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৯১",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 135,
+            oc :"মোঃ রেজাউল করিম ভূইয়া",
+            name: "চাঁঁদপুর সদর নৌ থানা",
+            phone: "০১৭৬৯৬৯০৮২১",
+            address : null,
+           lat :null,
+           long: null
+            
+        },
+        {
+            id : 136,
+            oc :"মোঃ মনিরুল ইসলাম",
+            name: "আলুর - বাজার নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৮২২",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 137,
+            oc :"জনাব, আবু তাহের",
+            name: "মোহনপুর নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৮২৪",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 138,
+            oc :"মোঃ আব্দুর রহমান ঢালি",
+            name: "নীল - কমল নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৮২৩",
+            address : null,
+           lat :null,
+           long: null
+
+
+
+
+        },
+        {
+            id : 139,
+            oc :"মোঃ গিয়াস উদ্দিন",
+            name: "হরিশাঘাট নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৮৩",
+            address : null,
+           lat :null,
+           long: null
+
+
+        },
+        {
+            id : 140,
+            oc :"জুয়েল",
+            name: "বেলাতলী নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৮৪",
+            address : null,
+           lat :null,
+           long: null
+    
+        },
+        {
+            id : 141,
+            oc :"মোঃ মতিন,",
+            name: "বড় ক্ষেরী নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৮২৫",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 142,
+            oc :"মোঃ ইব্রাহিম",
+            name: "মজু চৌধুরি ঘাট নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৮৫",
+            address : null,
+           lat :null,
+           long: null
+        },
+        {
+            id : 143,
+            oc :"জে, এম সিরাজুল কবির",
+            name: "চলি ভাঙ্গা নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৮৬",
+            address : null,
+           lat :null,
+           long: null
+        },
+        {
+            id : 144,
+            oc :"আলাউদ্দিন-আল মাসুম",
+            name: "সুরেশপুর নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯০৭৯৮",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 145,
+            oc :"মোঃ মহাসিন",
+            name: "নরসিংহপুর নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৫৮৮",
+            address : null,
+           lat :null,
+           long: null
+   
+        },
+        {
+            id : 146,
+            oc :"মোঃ আনোয়ার",
+            name: "নলাচিড়া নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৬৩২",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 147,
+            oc :"মোঃ লিয়াকত আলী",
+            name: "নিজুম দ্বীপ নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৬৩৪",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 148,
+            oc :"মোঃ গোলাম মুর্শিদ সরকার",
+            name: "বদরখালী নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৬৩৬",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 149,
+            oc :"মোঃ নাছির",
+            name: "মাতারবাড়ি নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৬৩৭",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 150,
+            oc :"এইচ এম সালাহ উদ্দিন",
+            name: "রাঙ্গামাটি সদর নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৬৪০",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 151,
+            oc :"মোঃ ফরিদ",
+            name: "টেকনাফ নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৬৩৯",
+            address : null,
+           lat :null,
+           long: null
+
+        },
+        {
+            id : 152,
+            oc :"মোঃ জাহাঙ্গির আলম",
+            name: "কুমিরা নৌ ফাঁড়ি",
+            phone: "০১৭৬৯৬৯২৬২৯",
+            address : null,
+           lat :null,
+           long: null
+
+
+        }
+
+
+       
+
+    ]
+}
